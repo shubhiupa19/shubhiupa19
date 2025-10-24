@@ -14,7 +14,7 @@ My background spans software engineering, data pipelines, full-stack dev, and UX
 
 ## 🛠️ Tech I Use
 
-`Python` • `React` • `Next.js` • `MongoDB` • `AWS` • `Snowflake` • `scikit-learn` • `LangChain` • `Flask` • `Databricks`
+`Python` • `React` • `Next.js` • `MongoDB` • `AWS` • `Snowflake` • `scikit-learn` • `Flask` • `Databricks`
 
 ---
 
