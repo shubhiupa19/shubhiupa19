@@ -46,6 +46,6 @@ python · react/next.js · flask · aws · mongodb · snowflake · scikit-learn 
 
 ### ▸ let's connect
 
-[linkedIn](https://www.linkedin.com/in/shubhiupadhyay/) | [gitHub](https://github.com/shubhiupa19) | [medium](https://medium.com/@shubhiupadhyay)
+[linkedIn](https://www.linkedin.com/in/shubhiupadhyay/) | [github](https://github.com/shubhiupa19) | [medium](https://medium.com/@shubhiupadhyay)
 
 
