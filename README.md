@@ -1,4 +1,4 @@
-## hey, I'm shubhi (shuh-b-hee)!
+## hey, i'm shubhi (shuh-b-hee)!
 
 i'm a software engineer who enjoys building at the intersection of cognition, crypto, and code.
 
