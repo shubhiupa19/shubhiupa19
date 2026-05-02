@@ -2,9 +2,9 @@
 
 i'm a software engineer who enjoys building at the intersection of cognition, crypto, and code.
 
-my background spans software engineering, data science, and ux. i care most about building technology that's thoughtful, human-centered, and genuinely useful.
+my background spans software engineering, data science, and ux. i care most about technology that's thoughtful, human-centered, and genuinely useful. i studied cs with a psych minor because i think the best software understands how people think.
 
-i'm an nyu computer science grad (minors in math & psych). previous intern at AWS and AT&T
+i'm an **nyu computer science grad** (minors in math & psych). previous intern at **AWS** and **AT&T**
 
 ---
 
