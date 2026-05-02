@@ -1,23 +1,20 @@
-## hey, I'm shubhi (Shuh-b-hee)!
+## hey, I'm shubhi (shuh-b-hee)!
 
 i'm a software engineer who enjoys building at the intersection of cognition, crypto, and code.
 
----
-
-## my background 
-i'm an nyu computer science grad (minors in math & psych). 
-
 my background spans software engineering, data science, and ux. i care most about building technology that's thoughtful, human-centered, and genuinely useful.
 
+i'm an nyu computer science grad (minors in math & psych). previous intern at AWS and AT&T
+
 ---
 
-## what i'm into
+## ▸ what i'm into
 
 right now, i'm digging into **solidity & web3** and writing about the **overlap of cognition and computing**.
 
 ---
 
-## selected work
+## ▸ selected work
 
 - 🧠 [**journal-ai**](https://github.com/shubhiupa19/journal-ai)  
   a journaling app that detects cognitive distortions in real time using tf-idf + logistic regression.  
@@ -42,12 +39,12 @@ right now, i'm digging into **solidity & web3** and writing about the **overlap 
 
 ---
 
-## tools i'm versed in
+## ▸ tools i'm versed in
 python · react/next.js · flask · aws · mongodb · snowflake · scikit-learn · solidity (learning)
 
 ---
 
-## 📬 let's connect
+## ▸ let's connect
 
 [linkedIn](https://www.linkedin.com/in/shubhiupadhyay/) | [gitHub](https://github.com/shubhiupa19) | [medium](https://medium.com/@shubhiupadhyay)
 
