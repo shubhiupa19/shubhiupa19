@@ -1,70 +1,54 @@
-## Hi there 👋, I'm Shubhi (Shuh-b-hee)
+## hey, I'm shubhi (Shuh-b-hee)!
 
-I'm a senior at NYU studying Computer Science, with minors in Mathematics and Psychology.  
-I care about building tech that actually matters – systems and tools that are useful, responsible, and human-centered.
-
----
-
-## 🧠 What Drives Me
-
-Whether I’m coding, debugging at 2 a.m., or collaborating on design, I’m most excited when solving real problems for real people.  
-My background spans software engineering, data pipelines, full-stack dev, and UX research.
+i'm a software engineer who enjoys building at the intersection of cognition, crypto, and code.
 
 ---
 
-## 🛠️ Tech I Use
+## my background 
+i'm an nyu computer science grad (minors in math & psych). 
 
-`Python` • `React` • `Next.js` • `MongoDB` • `AWS` • `Snowflake` • `scikit-learn` • `Flask` • `Databricks`
-
----
-
-## 🎯 Projects I'm Proud Of
-
-- 🧠 [**Journal-AI**](https://github.com/shubhiupa19/journal-ai)  
-  A journaling app that detects cognitive distortions in real time using ML + NLP.  
-  → Built with Flask + scikit-learn backend and a Next.js 13 frontend.  
-  → Trained on 2.5k+ labeled entries; highlights negative thought patterns and shows model confidence.  
-  → Future: LLM-powered CBT-style reframes.
-
-- 🏆 [**Code for Good Hackathon (Winner)**]()  
-  Built a full-stack scheduling app in under 24 hours for a nonprofit called First Generation Investors.  
-  → Won an invite-only JPMorgan hackathon
-
-- 🃏 [**Blockchain Poker dApp**](https://github.com/nyublockchainfintech/frontend)  
-  A decentralized poker game for NYU students, built with React, Next.js, and web3 libraries.  
-  → Focused on frontend dev, animations, and web3 wallet integration.
-
-- 📊 [**VibeCheck**](https://github.com/shubhiupa19/VibeCheck)  
-  A friendship analytics tracker with user-auth, JWT, and visualized dashboards.  
-  → Used MongoDB, Tailwind, and Chart.js to build an interactive, private reflection tool.
+my background spans software engineering, data science, and ux. i care most about building technology that's thoughtful, human-centered, and genuinely useful.
 
 ---
 
-## 🌱 Currently Exploring
+## what i'm into
 
-- 🧠 NLP + mental health: LLM-based journaling and reflection tools  
-- ⛓️ Blockchain/web3: Digital identity, decentralized social apps, and tokenized learning  
-
----
-
-## ✨ Outside of Code
-
-When I’m not building, you’ll usually find me:
-- 🎾 On the tennis court
-- 📚 Reading about how languages evolve
-- 🧪 Tinkering with side projects no one asked for but I *had* to build
+right now, i'm digging into **solidity & web3** and writing about the **overlap of cognition and computing**.
 
 ---
 
-## 🎯 Open To
+## selected work
 
-Actively seeking **New Grad Software Engineering roles (2026)** — especially in web3, data, or full-stack product teams.  
-Let’s connect if you're building something meaningful!
+- 🧠 [**journal-ai**](https://github.com/shubhiupa19/journal-ai)  
+  a journaling app that detects cognitive distortions in real time using tf-idf + logistic regression.  
+  → built with flask + scikit-learn backend and a next.js frontend.  
+  → trained on 2.5k+ labeled entries and supplemented with ~1.3k llm-generated examples; highlights negative thought patterns and shows model confidence.
+  → [try it →](https://journal-ai-zeta.vercel.app/)
+
+- 🔮 [**nazariya**](https://github.com/shubhiupa19/nazariya)  
+  a perspective correction tool for comparison spirals
+  → describe what triggered you and the story your brain told; it returns a structured reframe grounded in what's actually true
+  → built with next.js 15, groq (llama 3.3), and strict guardrails against toxic positivity
+  → [try it →](https://nazariya-five.vercel.app/)
+
+- 📊 [**vibecheck**](https://github.com/shubhiupa19/VibeCheck)  
+  a friendship analytics tracker with user-auth, jwt, and visualized dashboards.  
+  → used mongodb, tailwind, and chart.js to build an interactive, private reflection tool.
+  → [try it →](https://vibe-check-nine-phi.vercel.app/)
+
+- 🃏 [**blockchain poker dapp**](https://github.com/nyublockchainfintech/frontend)  
+  a decentralized poker game for nyu students, built with next.js and web3 libraries.  
+  → focused on frontend dev, animations, and web3 wallet integration.
 
 ---
 
-## 📬 Let's Connect
+## tools i'm versed in
+python · react/next.js · flask · aws · mongodb · snowflake · scikit-learn · solidity (learning)
 
-[LinkedIn](https://www.linkedin.com/in/shubhiupadhyay/) | [GitHub](https://github.com/shubhiupa19) | [Medium](https://medium.com/@shubhiupadhyay)
+---
+
+## 📬 let's connect
+
+[linkedIn](https://www.linkedin.com/in/shubhiupadhyay/) | [gitHub](https://github.com/shubhiupa19) | [medium](https://medium.com/@shubhiupadhyay)
 
 
