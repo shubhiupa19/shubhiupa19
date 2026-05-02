@@ -23,9 +23,9 @@ right now, i'm digging into **solidity & web3** and writing about the **overlap 
   [try it →](https://journal-ai-zeta.vercel.app/)
 
 - 🔮 [**nazariya**](https://github.com/shubhiupa19/nazariya)  
-  a perspective correction tool for comparison spirals
-  → describe what triggered you and the story your brain told; it returns a structured reframe grounded in what's actually true
-  → built with next.js 15, groq (llama 3.3), and strict guardrails against toxic positivity   
+  a perspective correction tool for comparison spirals  
+  → describe what triggered you and the story your brain told; it returns a structured reframe grounded in what's actually true   
+  → built with next.js 15, groq (llama 3.3), and strict guardrails against toxic positivity     
   [try it →](https://nazariya-five.vercel.app/)
 
 - 📊 [**vibecheck**](https://github.com/shubhiupa19/VibeCheck)  
