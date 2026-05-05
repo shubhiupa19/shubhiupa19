@@ -16,7 +16,7 @@ right now, i'm digging into **solidity & web3** and writing about the **overlap 
 
 ### ▸ selected work
 
-- 🧠 [**journal-ai**](https://github.com/shubhiupa19/journal-ai)  
+- 🧠 [**reframe**](https://github.com/shubhiupa19/journal-ai)  
   a journaling app that detects cognitive distortions in real time using tf-idf + logistic regression.  
   → built with flask + scikit-learn backend and a next.js frontend.  
   → trained on 2.5k+ labeled entries and supplemented with ~1.3k llm-generated examples; highlights negative thought patterns and shows model confidence.  
