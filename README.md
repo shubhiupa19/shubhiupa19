@@ -46,6 +46,7 @@ right now, i'm digging into **solidity & web3** and writing about the **overlap 
 ---
 
 ### ▸ tools i'm versed in
+
 python · typescript · react/next.js · flask · aws · postgresql · mongodb · scikit-learn · hugging face transformers · langchain · snowflake · docker
 ---
 
