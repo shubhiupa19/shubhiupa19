@@ -17,10 +17,11 @@ right now, i'm digging into **solidity & web3** and writing about the **overlap 
 ### ▸ selected work
 
 - 🧠 [**reframe**](https://github.com/shubhiupa19/journal-ai)  
-  a journaling app that detects cognitive distortions in real time using tf-idf + logistic regression.  
-  → built with flask + scikit-learn backend and a next.js frontend.  
-  → trained on 2.5k+ labeled entries and supplemented with ~1.3k llm-generated examples; highlights negative thought patterns and shows model confidence.  
-  [try it →](https://journal-ai-zeta.vercel.app/)
+  a journaling app that detects cognitive distortions in real time
+  → iterated through 4 model architectures: tf-idf + logistic regression → frozen sentence embeddings (minilm) → hyperparameter-tuned ensemble → fine-tuned distilbert, improving macro f1 from 34% to 68%.
+  → diagnosed data leakage via groupshufflesplit; generated synthetic training data for class balancing across 11 distortion types.
+  → flask + scikit-learn + hugging face backend, next.js frontend. deployed on vercel.
+  [try it →](https://journal-ai-zeta.vercel.app/) · [read the blog post →](https://medium.com/@shubhiupadhyay/how-i-turned-therapy-concepts-into-a-machine-learning-model-56586a23ecb5)
 
 - 🔮 [**nazariya**](https://github.com/shubhiupa19/nazariya)  
   a perspective correction tool for comparison spirals  
@@ -38,10 +39,14 @@ right now, i'm digging into **solidity & web3** and writing about the **overlap 
   → focused on frontend dev, animations, and web3 wallet integration.
 
 ---
+### ▸ writing
+
+- [how i turned therapy concepts into a machine learning model](https://medium.com/@shubhiupadhyay/how-i-turned-therapy-concepts-into-a-machine-learning-model-56586a23ecb5) — medium, jul 2026
+- [you don't have to understand crypto to believe in it](https://medium.com/coinmonks/you-dont-have-to-understand-crypto-to-believe-in-it-f458984d468a) — coinmonks, feb 2026
+---
 
 ### ▸ tools i'm versed in
-python · react/next.js · flask · aws · mongodb · snowflake · scikit-learn · solidity (learning)
-
+python · typescript · react/next.js · flask · aws · postgresql · mongodb · scikit-learn · hugging face transformers · langchain · snowflake · docker
 ---
 
 ### ▸ let's connect
