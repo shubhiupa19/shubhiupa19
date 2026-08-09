@@ -17,10 +17,10 @@ right now, i'm digging into **solidity & web3** and writing about the **overlap 
 ### ▸ selected work
 
 - 🧠 [**reframe**](https://github.com/shubhiupa19/journal-ai)  
-  a journaling app that detects cognitive distortions in real time
-  → iterated through 4 model architectures: tf-idf + logistic regression → frozen sentence embeddings (minilm) → hyperparameter-tuned ensemble → fine-tuned distilbert, improving macro f1 from 34% to 68%.
-  → diagnosed data leakage via groupshufflesplit; generated synthetic training data for class balancing across 11 distortion types.
-  → flask + scikit-learn + hugging face backend, next.js frontend. deployed on vercel.
+  a journaling app that detects cognitive distortions in real time. 
+  → iterated through 4 model architectures: tf-idf + logistic regression → frozen sentence embeddings (minilm) → hyperparameter-tuned ensemble → fine-tuned distilbert, improving macro f1 from 34% to 68%.  
+  → diagnosed data leakage via groupshufflesplit; generated synthetic training data for class balancing across 11 distortion types.  
+  → flask + scikit-learn + hugging face backend, next.js frontend. deployed on vercel.  
   [try it →](https://journal-ai-zeta.vercel.app/) · [read the blog post →](https://medium.com/@shubhiupadhyay/how-i-turned-therapy-concepts-into-a-machine-learning-model-56586a23ecb5)
 
 - 🔮 [**nazariya**](https://github.com/shubhiupa19/nazariya)  
